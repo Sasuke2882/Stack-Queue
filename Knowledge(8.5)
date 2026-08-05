@@ -1,0 +1,6 @@
+Knowledge:
+1.How to Create a Stack class which can be called;
+2.How to Create a Queue class which can be called;
+3.Test these 2 class successfully;
+4.Find and work out some practical problems about stacks and queues;
+5.== is used to compare positions but not variables, if you want to compare whether variables are equals, call the method equals(Object);
